@@ -2,6 +2,6 @@
     "versionCode": 1,
     "versionName": "1.0.0",
     "downloadUrl": "https://github.com/sarlindom39/Simpsons-VPN/releases/latest",
-    "releaseNotes": "Correção crítica: sistema de atualização agora funciona corretamente. O app só bloqueia quando REALMENTE precisa atualizar e o prazo expirar.",
+    "releaseNotes": "Versão estável do Simpsons VPN",
     "blockingDate": "31/12/2026"
 }
